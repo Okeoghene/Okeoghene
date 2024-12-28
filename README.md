@@ -20,7 +20,7 @@ As a dedicated Network Automation Engineer, I'm excited to share my journey and 
 - DevOps Bootcamp: Learn Linux & Become a Linux Sysadmin (ZeroToMastery) Dec 2023.<br/>
 - Network Automation Engineering Fundamentals (Cisco Learning and Certifications on Coursera) Dec 2023.<br/>
 - Cisco Certified Network Associate (CSCO14185306) July 2023.<br/>
-- Hands-on Introduction to Linux Commands and Shell Scripting. (IBM) Dec, 2022.
+- Hands-on Introduction to Linux Commands and Shell Scripting. (IBM) Dec, 2022.<br/>
 - Bachelor of Engineering in Information and Communication Engineering July 2019.<br/>
 
 
