@@ -14,7 +14,7 @@ As a dedicated Network Automation Engineer, I'm excited to share my journey and 
 
 <br/>
 <h1></h1>
-<h2>👨‍💻 Certifications:</h2>
+<h2>🎓 Certifications:</h2>
 - Cisco Certified DevNet Specialist - Enterprise Automation and Programmability July 2024.<br/>
 - CCNP Video Training Series (UC-4e87f35a-84ff-4763-b336-785cb4ac5d3a, Udemy) March 2024.<br/>
 - DevOps Bootcamp: Learn Linux & Become a Linux Sysadmin (ZeroToMastery) Dec 2023.<br/>
