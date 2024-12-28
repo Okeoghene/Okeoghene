@@ -2,7 +2,7 @@
 
 **`Network Automation Engineer`**
 
-I'm a passionate Network Automation Engineer with plenty of experience to share! This page showcases my skills and expertise, all of which come from an initiative I designed to develop my abilities. With five years in Network Engineering, I've honed my understanding of networking protocols like IGP, BGP, DHCP, DNS, and VLAN, just to name a few. Currently, I’m fortunate to work at Daisy in the Wavenet group as a Senior CPE-D Engineer. The ideas for these projects are all my own, and I’d love to connect! Feel free to drop me an email at [gmail] or reach out on [Linkedin].
+As a dedicated Network Automation Engineer, I'm excited to share my journey and insights with you! This page showcases my skills and expertise, developed through various initiatives aimed at enhancing my abilities. With five years of experience in Network Engineering, I've gained a profound understanding of networking protocols, including IGP, BGP, DHCP, DNS, and VLAN, among others! In addition to keeping up with the latest technologies, I’ve also boosted my skills in scripting (python and bash) and network automation with tools such as YANG, RESTCONF, NETCONF, and Ansible. I am currently proud to be part of Daisy's Wavenet group as a Senior CPE-D Engineer. Each project idea here resonates with me, and I would love to connect! Feel free to email me at [gmail] or reach out on [Linkedin].
 
 ---
 <h2>🛠 Language and Tools:</h2>
@@ -10,6 +10,7 @@ I'm a passionate Network Automation Engineer with plenty of experience to share!
 <img align="left" alt="Okeoghene | Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Okeoghene | Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" alt="Okeoghene | Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Okeoghene | Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 
 <br/>
 <h1></h1>
