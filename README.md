@@ -6,6 +6,7 @@ I am a dedicated and knowledgeable Network Automation Engineer. This page highli
 <img align="left" alt="Okeoghene | GNS3" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikiversity/en/7/7a/Gns3_logo.png" />
 
 <br/>
+#
 <h2>👨‍💻 Network Automation Projects:</h2>
 
 - <b>Building and Managing a Simple MPLS Network</b>
