@@ -27,7 +27,7 @@ As a dedicated Network Automation Engineer, I'm excited to share my journey and 
 <h2>👨‍💻 Network Automation Projects:</h2>
 
 - <b>Building and Managing a Simple MPLS Network</b>
-  - [Incoming](https://github.com/joshmadakor1/watch_out)
+  - [Simple MPLS Network](https://github.com/Okeoghene/SimpleMPLSNetwork)
 
 <h2> 🤳 Connect with me:</h2>
 
