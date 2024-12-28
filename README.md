@@ -2,7 +2,7 @@
 
 **`Network Automation Engineer`**
 
-I am a dedicated and knowledgeable Network Automation Engineer. This page highlights my skills and expertise. All the projects featured here stem from a personal skill-building project program. I possess five years of experience in the field of Network Engineering. Throughout my career, I have developed a strong understanding of networking protocols, including IGP, BGP, DHCP, DNS, and VLAN, among others. Currently, I work at Daisy, within the Wavenet group, as a Senior CPE-D Engineer. I have completed these projects, and if you would like to connect, feel free to email me at [gmail] or message me on [Linkedin].
+I'm a passionate Network Automation Engineer with plenty of experience to share! This page showcases my skills and expertise, all of which come from an initiative I designed to develop my abilities. With five years in Network Engineering, I've honed my understanding of networking protocols like IGP, BGP, DHCP, DNS, and VLAN, just to name a few. Currently, I’m fortunate to work at Daisy in the Wavenet group as a Senior CPE-D Engineer. The ideas for these projects are all my own, and I’d love to connect! Feel free to drop me an email at [gmail] or reach out on [Linkedin].
 
 ---
 <h2>🛠 Language and Tools:</h2>
