@@ -4,6 +4,9 @@ I am a dedicated and knowledgeable Network Automation Engineer. This page highli
 ---
 <h2>🛠 Language and Tools:</h2>
 <img align="left" alt="Okeoghene | GNS3" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikiversity/en/7/7a/Gns3_logo.png" />
+<img align="left" alt="Okeoghene | Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Okeoghene | Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="Okeoghene | Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 <br/>
 <h1></h1>
