@@ -2,7 +2,7 @@
 
 **`Network Automation Engineer`**
 
-As a dedicated Network Automation Engineer, I'm excited to share my journey and insights with you! This page showcases my skills and expertise, developed through various initiatives aimed at enhancing my abilities. With five years of experience in Network Engineering, I've gained a profound understanding of networking protocols, including IGP, BGP, DHCP, DNS, and VLAN, among others! In addition to keeping up with the latest technologies, I’ve also boosted my skills in scripting (python and bash) and network automation with tools such as YANG, RESTCONF, NETCONF, and Ansible. I am currently proud to be part of Daisy's Wavenet group as a Senior CPE-D Engineer. Each project idea here is not part of my regular work activities; I am researching as I complete each task! Feel free to email me at [gmail] or reach out on [Linkedin].
+I'm excited to share my journey and insights as a dedicated Network Automation Engineer! This page showcases my skills and expertise, which I have developed through various initiatives to enhance my abilities. With five years of experience in Network Engineering, I have gained a profound understanding of networking protocols, including IGP, BGP, DHCP, DNS, and VLAN, among others! In addition to keeping up with the latest technologies, I have also boosted my skills in scripting (Python and Bash) and network automation with tools such as YANG, RESTCONF, NETCONF, and Ansible. I am proud to be a Senior CPE-D Engineer in Daisy's Wavenet group. Each project idea here is inspired by my work to design and practice beyond my day-to-day activities; I am researching and learning as I complete each task! Feel free to email me at [gmail] or on [Linkedin].
 
 ---
 <h2>🛠 Language and Tools:</h2>
