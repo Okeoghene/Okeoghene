@@ -31,8 +31,8 @@ I'm excited to share my journey and insights as a dedicated Network Automation E
 
 <h2>📜 Published articles:</h2>
 
-- <b>HOW TO GUIDEs</b>
-  - [Simple MPLS Network](https://github.com/Okeoghene/SimpleMPLSNetwork)
+- <b>Ultimate How To Guides</b>
+  - [Ultimate How To Guide](https://github.com/Okeoghene/Ultimate-How-To-Guides.git)
 
 <h2> 🤳 Connect with me:</h2>
 
