@@ -29,6 +29,11 @@ I'm excited to share my journey and insights as a dedicated Network Automation E
 - <b>Building and Managing a Simple MPLS Network</b>
   - [Simple MPLS Network](https://github.com/Okeoghene/SimpleMPLSNetwork)
 
+<h2>👨‍💻 Published articles:</h2>
+
+- <b>HOW TO GUIDEs</b>
+  - [Simple MPLS Network](https://github.com/Okeoghene/SimpleMPLSNetwork)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Okeoghene | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
