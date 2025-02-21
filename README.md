@@ -29,7 +29,7 @@ I'm excited to share my journey and insights as a dedicated Network Automation E
 - <b>Building and Managing a Simple MPLS Network</b>
   - [Simple MPLS Network](https://github.com/Okeoghene/SimpleMPLSNetwork)
 
-<h2>👨‍💻 Published articles:</h2>
+<h2>📜 Published articles:</h2>
 
 - <b>HOW TO GUIDEs</b>
   - [Simple MPLS Network](https://github.com/Okeoghene/SimpleMPLSNetwork)
