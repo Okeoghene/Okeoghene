@@ -27,7 +27,7 @@ I'm excited to share my journey and insights as a dedicated Network Automation E
 <h2>👨‍💻 Network Automation Projects:</h2>
 
 - <b>Building and Managing a Simple MPLS Network</b>
-  - [Simple MPLS Network](https://github.com/Okeoghene/SimpleMPLSNetwork)
+  - [Simple MPLS Network](https://github.com/Okeoghene/MPLS_PE_-STATIC-_CE)
 
 <h2>📜 Published articles:</h2>
 
